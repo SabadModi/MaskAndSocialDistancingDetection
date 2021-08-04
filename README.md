@@ -18,3 +18,6 @@
 1. Just follow the comments on the notebook
 2. **IF YOU WOULD LIKE, DO NOT RUN THE CELL FOR TRAINING THE MODEL. THE FILES RELATED TO THE TRAINING OF THE MODEL ARE ALREADY ADDED TO THE `yolov5` DIRECTORY.**
 3. **DO NOT FORGET TO CHANGE THE DIRECTORIES WHEN YOU ARE OPENING THE IMAGE AFTER DETECTION**
+
+## **Demo**
+For the demo, please click [here](https://drive.google.com/file/d/1oDuE8P9x1s4A_A28VeZ7k6kVJoZ6FG_V/view?usp=sharing)
